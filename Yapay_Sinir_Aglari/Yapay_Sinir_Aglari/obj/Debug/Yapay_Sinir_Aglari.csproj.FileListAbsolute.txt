@@ -1,0 +1,16 @@
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\bin\Debug\Yapay_Sinir_Aglari.exe.config
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\bin\Debug\Yapay_Sinir_Aglari.exe
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\bin\Debug\Yapay_Sinir_Aglari.pdb
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\obj\Debug\Yapay_Sinir_Aglari.csproj.AssemblyReference.cache
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\obj\Debug\Yapay_Sinir_Aglari.csproj.SuggestedBindingRedirects.cache
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\obj\Debug\Yapay_Sinir_Aglari.csproj.ResolveComReference.cache
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\obj\Debug\Yapay_Sinir_Aglari.Form1.resources
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\obj\Debug\Yapay_Sinir_Aglari.Properties.Resources.resources
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\obj\Debug\Yapay_Sinir_Aglari.csproj.GenerateResource.cache
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\obj\Debug\Yapay_Sinir_Aglari.csproj.CoreCompileInputs.cache
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\obj\Debug\Yapay_Sinir_Aglari.exe
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\obj\Debug\Yapay_Sinir_Aglari.pdb
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\bin\Debug\Yapay_Sinir_Aglari.exe.manifest
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\bin\Debug\Yapay_Sinir_Aglari.application
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\obj\Debug\Yapay_Sinir_Aglari.exe.manifest
+D:\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\Yapay_Sinir_Aglari\obj\Debug\Yapay_Sinir_Aglari.application
